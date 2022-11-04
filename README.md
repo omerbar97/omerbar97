@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omer
-- 👀 I’m interested in gaming, surfing, computers and friends! currently I learn's bachelor In Computer Science at Bar Ilan University!
+- 👀 I’m interested in gaming, surfing, computers and friends! currently I am learning bachelor degree In Computer Science at Bar Ilan University!
 - 📫 you can reach me by my e-mail: omerbar450@gmail.com
 
 <!---
