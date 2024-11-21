@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omer
-- 👀 I’m interested in gaming, surfing, and computers. currently I am learning bachelor degree In Computer Science at Bar Ilan University and working as Automation Engineer @ Entro Security
+- 👀 I’m interested in gaming, surfing, and computers. Just finished my bachelor degree In Computer Science at Bar Ilan University and working as Software Engineer @ Entro Security
 - 📫 you can reach me by my email: omerbar450@gmail.com
 
 <!---
